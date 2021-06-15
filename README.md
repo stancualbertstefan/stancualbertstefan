@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stancualbertstefan
-- 👀 I’m interested in medical field and web development
+- 👀 I’m a doctor with a great passion in programming
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on open source interesting projects
 - 📫 How to reach me stancualbertstefan@gmail.com
