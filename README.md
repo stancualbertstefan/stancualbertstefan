@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @stancualbertstefan
-- 👀 I’m a doctor with a great passion in programming
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on open source interesting projects
+- 👋 Hi, I’m Albert,
+- 👀 I’m a doctor with a great passion in programming,
+- 🌱 I’m currently learning,
+- 💞️ I’m looking to collaborate on open source interesting projects,
 - 📫 How to reach me stancualbertstefan@gmail.com
 
 <!---
